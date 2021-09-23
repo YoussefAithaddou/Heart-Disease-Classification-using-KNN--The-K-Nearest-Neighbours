@@ -9,7 +9,7 @@ This projects aims to predict the existence of heart disease in patients using K
 # Code and Resources Used
 * Python Version: 3.7
 * Packages: pandas, numpy, sklearn, matplotlib, seaborn.
-* ChromeDriver 95.0.4638.10 [[1]] (https://chromedriver.chromium.org/downloads)
+* ChromeDriver 95.0.4638.10 [[1]](https://chromedriver.chromium.org/downloads)
 # Classification results
 The cleveland heart disease dataset includes 14 different physiological attributes that can indicate the existence of heart disease, these attributes are:
 * age
